@@ -8,7 +8,7 @@ además se encuentra en ella.
 
 El primer paso será crear un nuevo repositorio.
 
-![1](http://imgur.com/AU6Tnz4)
+![1](1.PNG)
 
 Daremos un nombre y una descripción a nuestro repositorio.
 GitHub no permite crear repositorios privados, así que
@@ -17,20 +17,20 @@ dejaremos la opción pública que viene por defecto.
 Por el momento, tampoco asignaremos una licencia, un README
 ni un fichero de exclusión (gitignore).
 
-![2](http://imgur.com/LCbTz1O)
+![2](2.PNG)
 
 Una vez finalizado el paso anterior, GitHub nos presentará
 un informe, del cual rescataremos uno de los datos guardándolo
 en el portapapeles.
 
-![5](http://imgur.com/BdDLq6I)
+![5](5.PNG)
 
 ## Segunda parte
 
 Para esta parte, iniciaremos Netbeans y seleccionaremos
 la opción _Team/Git/Clone_ de la barra del menú.
 
-![6](http://imgur.com/RHm8gRZ)
+![6](6.PNG)
 
 En el URL pegaremos la información que obtuvimos de la primera
 parte. Luego completaremos los campos de usuario y contraseña
@@ -61,7 +61,7 @@ guarde en el repositorio.
 Para hacerlo, seleccionaremos nuestro proyecto
 y luego iremos a _Team/Commit_.
 
-![4](http://imgur.com/0qBEUbS)
+![4](4.PNG)
 
 En esta ventana podremos seleccionar los ficheros que queremos
 almacenar en el repositorio. Sólo aparecerán aquellos que fueron
@@ -84,7 +84,7 @@ Para enviar nuestro proyecto a GitHub, debemos ir a la barra
 de menú en la opción _Team/Git/Push to upstream_. Se nos preguntará
 si deseamos crear una rama nueva en el repositorio remoto, aceptaremos.
 
-![5](http://imgur.com/Ggir7RP)
+![7](7.PNG)
 
 La siguiente ventana nos preguntará si deseamos que la rama
 seleccionada sea la principal. Aceptaremos ya que será la única
